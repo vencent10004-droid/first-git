@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 1
 2
 3
+=======
+q
+>>>>>>> parent of 905444a (test1 commit2)
